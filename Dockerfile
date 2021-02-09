@@ -1,0 +1,1 @@
+FROM dagshub/ml-workspace:latest
