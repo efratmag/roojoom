@@ -1,15 +1,15 @@
 cmd: echo "This is the model evalualtion stage" >&2 && exit 1
 deps:
-  - md5: d751713988987e9331980363e24189ce.dir
-    path: models
-    size: 0
-    nfiles: 0
-md5: 160077eb007c738777d6be81da0a1121
+- md5: b154668c965231a6f3ffbd5fed386599.dir
+  path: models
+  size: 685
+  nfiles: 1
+md5: 90d65afb014f61ed821b3478065df852
 outs:
-  - cache: false
-    md5: 323a6f745a4a0c26a9353616785481e8
-    metric:
-      type: json
-      xpath: loss
-    path: metrics/metrics.json
-    size: 166
+- cache: false
+  md5: 0e21ebfb3e98378b74d5c32d98e5bb84
+  metric:
+    type: json
+    xpath: loss
+  path: metrics/metrics.json
+  size: 165

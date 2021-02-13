@@ -1,0 +1,12 @@
+cmd: echo "This is the data processing stage" >&2 && exit 1
+deps:
+- md5: 7de6560cb59c05e5c65157464077c168.dir
+  path: raw
+  size: 366857
+  nfiles: 1
+md5: af93e620e7dcebeb96639f97cb9c299a
+outs:
+- md5: 03c448a225f5cac8d018d7c5bbee1b3e.dir
+  path: processed
+  size: 3530843
+  nfiles: 3
