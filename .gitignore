@@ -11,7 +11,6 @@ tests/.cache/v/cache/lastfailed
 
 .virtual_documents
 .ipynb_checkpoints/
-models/
 .workspace
 sesman.log
 
@@ -468,4 +467,3 @@ __pycache__/
 # OpenCover UI analysis results
 OpenCover/
 junit/
-/models
