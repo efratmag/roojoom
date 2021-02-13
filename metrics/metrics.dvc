@@ -1,7 +1,7 @@
 cmd: echo "This is the model evalualtion stage" >&2 && exit 1
 deps:
   - md5: d751713988987e9331980363e24189ce.dir
-    path: models
+    path: ../models
     size: 0
     nfiles: 0
 md5: 160077eb007c738777d6be81da0a1121
@@ -11,5 +11,5 @@ outs:
     metric:
       type: json
       xpath: loss
-    path: metrics/metrics.json
+    path: metrics.json
     size: 166

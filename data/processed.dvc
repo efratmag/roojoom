@@ -7,6 +7,6 @@ deps:
 md5: 437ad9818b0388a22346d9a058aa7c86
 outs:
   - md5: d751713988987e9331980363e24189ce.dir
-    path: data/processed
+    path: processed
     size: 0
     nfiles: 0
