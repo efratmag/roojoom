@@ -1,5 +1,7 @@
 # Custom stuff
 .virtual_documents
+.ipynb_checkpoints/
+models/
 .workspace
 sesman.log
 
