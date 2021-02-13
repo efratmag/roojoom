@@ -1,12 +1,12 @@
 cmd: echo "This is the model training stage" >&2 && exit 1
 deps:
-- md5: 03c448a225f5cac8d018d7c5bbee1b3e.dir
-  path: data/processed
-  size: 3530843
-  nfiles: 3
-md5: 7f72f9329b415cc648fa11f8f9a66935
+  - md5: d751713988987e9331980363e24189ce.dir
+    path: data/processed
+    size: 0
+    nfiles: 0
+md5: dcb69bd7103596fee99ce138ae27b399
 outs:
-- md5: b154668c965231a6f3ffbd5fed386599.dir
-  path: models
-  size: 685
-  nfiles: 1
+  - md5: d751713988987e9331980363e24189ce.dir
+    path: models
+    size: 0
+    nfiles: 0

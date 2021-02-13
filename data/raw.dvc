@@ -1,6 +1,6 @@
 outs:
-- md5: 7de6560cb59c05e5c65157464077c168.dir
-  path: data/raw
-  size: 366857
-  nfiles: 1
+  - md5: d751713988987e9331980363e24189ce.dir
+    path: data/raw
+    size: 0
+    nfiles: 0
 wdir: ..
